@@ -1,0 +1,248 @@
+----------------------------------------
+Landmak Technology  + 1 437 215 2483
+----------------------------------------------
+Git and GitHub Administration
+----------------------------------------------
+  Landmark                          PayPAL    Duration
+  =======                           ======     
+  SDLC = 
+    Team = 13 
+    DevOps Engineer = 3
+    DBA  = 1
+    Linux Admins = 1
+    QA = 1
+    Developers = 6 Developers 
+
+ E-Commence CLIENT = ebay    50M
+ FinTech Client --> BOA  ==> 200M USD 
+
+ Development / Implementation  = CODING 
+    git 
+    Versioning is important 
+
+  August 1, 2021 --  version 1
+  August 21, 2021 -- version 2
+  August 31, 2021 -- version 3
+  September 11, 2021 -- version 4
+  September 13, 2021 -- version 5/3
+
+  coding on your Local  computer 
+  Collaboration --> 
+
+    Continuous development 
+
+  DVCS -- GIT 
+
+   pay.java
+   user.java  
+      sh sales.sh 
+         sales.java
+         sales.py 
+
+      version 1 
+         Add feature
+      version 2 
+      version n 
+
+ Local = 7 Developers 
+ Centralise version control = CVC 
+     6 Developers = 
+     6 Local ServerS = 
+        Central Server 
+ 
+ DVCS = Git 
+  GitHub =  SaaS = Software as a Service 
+
+https://github.com
+   430671 
+
+Git --> Distributed Version Control systems. DVCS
+      Source Code Management = SCM
+        GitHub - MS
+        GitLab
+        BitBucket (Stash) - A
+
+  username: mylandmarkpay
+  password: admin123@G 
+
+
+SVN --> Sub Version
+CVS --> Concurrent Version system
+TFS --> Team Foundation Server
+
+    10 year contract 
+   6 Developers -->
+      percy / simon / elvis /
+       sintia / Paul / Ade
+       pay.java 
+         version 36 
+
+  TeamLead Create organisation 
+  Create your team on GitHub
+  Add members to teams and assign permissions to members
+
+   payPal = 100m 
+
+   https://github.com/Landmark-Technologies
+   https://github.com/orgs/Landmark-Technologies/teams/paypaldevelopers
+   https://github.com/orgs/Landmark-Technologies/teams/devopslead25
+   https://github.com/Landmark-Technologies/paypal-
+   https://github.com/Landmark-Technologies/paypal-frontend
+
+   Create repositories for Developers to start coding and committing code 
+
+     Teams 
+
+
+IQ: As a DevOps Engineer, what are your roles & responsilities in Git?
+
+    Project Onboarding --> 
+    I create repository and teams for new onboarded projects
+    I add users to team and grant required access	
+
+1. Create an organisation to manage Teams and repositories.
+   This usually  a one-time activity for a Business-Unit or organisation.
+   When future projects are onboarded we won't create new organisations
+
+2. Create repos in GitHub e-commence (ebay)
+      boa 
+      rbc 
+      paypal 
+      ebay-frontend -UI
+	  ebay-backend
+      ebay
+      
+      https://github.com/mylandmarktech-ebay/ebay.git        # repo url
+	 
+	  private repos:
+	     no has read or write access
+	  Public Repo: 
+	     by default everyone has read access
+		 only authorise persons can update the code
+	  
+  https://github.com/myLandmark-Technology/boa.git
+
+3. Create a Team (ebay-devteam)
+
+        https://github.com/orgs/mylandmarktechs/teams/ebay-team   # team rul
+		
+		create or import share repos granting required permissions
+
+4. Add users to the team
+
+5. Provide/Grant repo access to the team
+
+
+GitHub - CE = free version 
+   https://github.com
+
+GHE    - EE  = paid version 
+    https://ghe.mss.com
+    https://ghe.aa.com
+
+Git Installations
+-----------------
+Pre Requisite Software Download/ Registration :
+	
+	Install git bash @ https://git-scm.com/downloads
+
+  vs-code  = IDE 
+
+<<m 
+Method 1 
+use package manager = yum 
+Login as a root user
+m 
+   sudo su - 
+
+$ sudo yum install git-all
+  sudo yum remove  git-all
+
+git --version
+
+
+<<Method2
+Change dir to /opt
+git is written in C# Language
+Method2
+cd /opt
+##The below command will download and install all required development libraries to your system.
+yum groupinstall "Development Tools" -y
+yum install gettext-devel openssl-devel perl-CPAN perl-devel zlib-devel curl-devel -y
+yum install wget tar -y
+##Open below URL and select the specific version and right click on that and click on Copy Link ##Address, then execute the wget command.
+##https://github.com/git/git/releases
+wget https://github.com/git/git/archive/v2.29.2.tar.gz  -O git-bash.tar.gz
+tar -zxf git-bash.tar.gz
+cd git-2.29.2
+make configure
+./configure --prefix=/usr/local
+##make install command will copy the built program, and its libraries and documentation, to the correct locations.
+make install
+
+git --version
+
+git config --global user.name "Simon Legah"
+git config --global user.email "legah2000@gmail.com"
+
+git config --global --list
+
+  
+cd ~/Desktop  --> windows
+
+mkdir paypal   --> Linux  
+
+mkdir project-ebay
+cd PayPAL
+
+  Local repository 
+     Local computer  / Server
+  Remote repository 
+     GitHub 
+
+ git status 
+
+ How do you create a git 
+     Local repository on your command line? 
+      by running the  'git init' command 
+
+  Git manages our application Development and Versioning
+
+working area: =
+     file.sh 
+     echo "enter the filename"  
+     read filename 
+     touch $filename 
+
+   git-bash 
+
+staging area: =  git add 
+    Unit testing 
+      sh file.sh 
+    write unit test cases  
+
+local repository  : = git commit 
+    git commit -m "my first commit"
+    git log  = to see the commits 
+
+remote repository: = 
+    https://github.com/Landmark-Technologies/paypal25
+    git remote -v 
+    git remote add pp https://github.com/Landmark-Technologies/paypal25 
+
+    git push pp master 
+       username : 
+       password 
+       personal access token: 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
+
+ working area = writing code (Bailey, Okere) 
+ staging area = 
+ LocalRepo    = 
+
+git init          = to initialised a git empty repository
+git status        = to track files location
+git add           = move files to staging area from working area
+git commit -m     = move files to the local repository FROM STAGING AREA
+                    good commit message for tracking changes/authors 
+
+git log
