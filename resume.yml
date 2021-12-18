@@ -1,0 +1,84 @@
+Brice Mboudjeko
+DevOps Engineer|| Platform Engineer || AWS Solution Architect || Cloud Engineer || Windows || 
+Cisco Network Engineer || BSc
+Randallstown, Baltimore MD 21133. brice.cisco@gmail.com
+
+PROFESSIONAL SUMMARY
+
+I am a DevOps, Systems and Cloud Engineer with extensive experience in managing; IaaS, PaaS, SaaS and On-Prem Infrastructures. I have over 5 years’ experience working as DevOps, Cloud, Platform and Systems Engineer and managing resources in AWS, GCP and On-Prem. 
+
+TECHNICAL EXPERIENCE
+
+-	Building Continuous Integration/Delivery pipelines (Jenkins, Docker, Kubernetes, Helm, Ansible, Terraform, Github, Git, AWS, Prometheus and Grafana, Nexus, EFK/ELK.)
+-	Languages: Bash Shell, Golang and Groovy, Html, Python, JSon, Yaml.
+-	Operating systems: Linux (Redhat, Ubuntu, CentOs), UNIX, Windows server.
+-	Version Control Tools: GitHut, Bitbucket
+-	Static Code Analysis: SonarQube
+-	Artifactory Storage: Nexus, JFrog
+-	Continuous Integration: Jenkins
+-	Web/Application Servers: Tomcat, JBoss/WildFly, Nginx, HAProxy
+-	Configuration Management Tool: Ansible
+-	Provisioning Tool: Terraform
+-	Containerization Platform: Docker
+-	Cloud Services: AWS (EC2, S3, EBS, ELB, IAM, AMI)
+-	Orchestration Tool: Docker-Swarm, Kubernetes
+-	Monitoring Tool: New Relic, Prometheus and Grafana.
+-	Bug/Defect Tracking Tool: JIRA
+-	Cultural Competencies:  Collaborative mindset, great team worker, Skilled at receiving feedback, as well as providing it.
+
+
+PROFESSIONAL EXPERIENCE
+LANDMARK TECHNOLOGIES                                                                                                                     Nov 2016 – Present
+Devops Engineer                
+
+
+•	A highly organized and detail-oriented professional with 5+ years’ experience providing thorough and skillful maintenance support.
+•	Having 4+ years’ experience in Build and Release Engineer/Devops, using various automation tools to oversee the end-to-end deployment process.
+•	Implemented a Continuous Delivery pipeline with Docker, Jenkins, GitHub, Maven and AWS.
+•	Have good Working knowledge of Build scripts like shell.
+•	Have automated some post build activities which reduces the manual effort.
+•	Created GitHub repositories and specified branching strategies that best fitted the needs for the client.
+•	Used ANSIBLE to perform configuration management and remote execution.
+•	Have extensive experience using Maven as build tools for the building of deployable artifacts (jar, war & ear) from source code. 
+•	Have experience on code quality analyzing tool – SonarQube.
+•	Have experience on artifactory tools - Nexus, JFrog.
+•	Automated build & deployment and CI process for many projects from scratch. Wrote build files and created jobs in Jenkins.
+•	Expert in deploying the code through web application servers like Apache Tomcat, JBoss / WildFly.
+•	Have experience on Docker Containerization.
+•	Created and managed a cluster of docker engines using orchestration tool callled Docker Swarm.
+•	Have experience in end-to-end Building, deploying and configuration process and Implementation from local QA, UAT and Production environment.
+•	Have experience with Amazon AWS Cloud Administration which includes services like: EC2, S3, EBS, ELB, AMI, IAM, Auto scaling, Security Groups.
+•	Have worked with various development teams to build and support automated builds, supporting daily continuous integration.
+•	Managed users, groups, and ftp accounts, and assign permissions.
+•	Strong experience in Kubernetes infrastructure and services like Kube DNS, Kubernetes Control Panel, Ingress Controller, ConfigMaps, etc.
+•	Handled the scheduling tasks (Cron jobs). Setting up of Cron tab jobs for scheduling few tasks. 
+•	Created/Managed AMIs, Snapshots and Volumes Upgrade Downgrade AWS resources (CPU, Memory, EBS).
+•	Configured instance backups to S3 bucket.
+•	Launched static website using EC2 instance or ELB and S3 Bucket.
+•	Managed and resolved server and user level issues and good knowledge in Creating of file systems.
+•	Changed the disk usage and creating Labels and swap partitions.
+•	Experience in supporting applications on Linux environments.
+•	Strong understanding of security best practices to enhance cloud security.
+•	Experience implementing modern approaches like Blue-Green, Canary Testing.
+
+
+Tool Chain:  
+-	Terraform, Ansible, Kubernetes, Helm, Docker Swarm, Docker, Jenkins, Apache httpd, Nginx, HAProxy, Tomcat, Wildfly/JBoss, Nexus, Maven, SonarQube, SCM, Git/GitHub, New Relic, Prometheus, Grafana, ELK/EFK, SVN, AWS CloudFormation, AWS EC2, AWS IAM, AWS CloudWatch, AWS ELB, AWS EBS, AWS EKS, AWS VPC.
+-	
+LIVETECH CONSULTING, Baltimore MD                                                                                             Apr 2014 – Nov 2016
+Network It Support 
+•	Configured and troubleshoot layer 2 and layer 3 operations and switch ports security
+•	Configured, verified and troubleshoot VLANs, VTP and RSTP operations at the Access and distribution layer
+•	Monitored and answered trouble tickets, including implementing solutions required.
+•	Implemented IP addressing Schemes and IP services to meet network requirements in a medium size Enterprise branch office network
+•	Identified and corrected common problems associated with IP addressing and host configurations
+•	Configured, verified and troubleshoot switches with VLANS and Inter-switch communications.
+
+Languages: Fluent in English and French.
+
+EDUCATION & CERTIFICATIONS
+
+•	University of Yaoundé                                   |     Cameroon            |      Bachelor’s degree in business law and entrepreneurship
+•	 Landmark Metropolitan University            |      Online                 |      CCNA Routing and Switching Certification – Active
+
+
