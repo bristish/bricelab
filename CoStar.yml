@@ -1,12 +1,17 @@
-CoStar is at an exciting stage because of its commitment to move to the cloud/ We will be focusing on using managed AWS services and resources as well as containers to modernize LoopNet's infrastructure. Currently, most of our services are running on AWS manage services, serverless compute and datastores. These include
+CoStar is at an exciting stage because of its commitment to move to the cloud/ We will be focusing on using managed AWS services and resources
+as well as containers to modernize LoopNet's infrastructure. Currently, most of our services are running on AWS manage services, serverless compute
+and datastores. These include
 
                     Route53:
                     =======
      DNS is like a phonebook for internet it helps to translate name such as www.example.com in to numeric ip addresses that computers uses to talk to each other.
-=> it provides DNS services with 100% availability and ensure that you can consistently route your end users to your application. It is seamlessly intergrated with other AWS services and can be used to map domain names to loadbalancers, Amazon EC2 instances, Amazon S3 buckets, Amazon CloudFront distributions, and other AWS resources. it can be also used with non-AWS resources.
+=> it provides DNS services with 100% availability and ensure that you can consistently route your end users to your application. It is seamlessly intergrated
+with other AWS services and can be used to map domain names to loadbalancers, Amazon EC2 instances, Amazon S3 buckets, Amazon CloudFront distributions, 
+and other AWS resources. it can be also used with non-AWS resources.
 
 => Traffic flows helps to improve your application's performance and reliability for ends users.
-helps you construct sophisticated routing configurations for resources in multiple AWS and non-AWS locations.Traffic flow greatly simplifies the process of creating and maintaining records in large and complex configurations. 
+helps you construct sophisticated routing configurations for resources in multiple AWS and non-AWS locations.Traffic flow greatly simplifies the 
+process of creating and maintaining records in large and complex configurations. 
 Use a visual tool to create policies for multiple endpoints in complex configurations.
 
 => It is flexible because it can route traffic based on multiple criteria, such as endpoint health, geographic location, and latency.
@@ -20,20 +25,25 @@ Use a visual tool to create policies for multiple endpoints in complex configura
 Cloud Map ensures that your web services only discover the most up-to-date and healthy location of their resources, increasing the availability of the application.
 
 => Reduce operational complexity
-Containerized services managed by Amazon ECS and EKS can be automatically registered and kept up-to-date in AWS Cloud Map. You don’t have to worry about tools for maintaining your service registry that increase operational complexity.
+Containerized services managed by Amazon ECS and EKS can be automatically registered and kept up-to-date in AWS Cloud Map. You don’t have to worry about tools
+for maintaining your service registry that increase operational complexity.
 
 => Increase developer productivity
-Cloud Map ensures that our development teams don’t have to constantly store, track, and update resource name and location information or make changes directly within the application code.
+Cloud Map ensures that our development teams don’t have to constantly store, track, and update resource name and location information or make changes directly 
+within the application code.
 
 => Continuous integration and deployment
-Deploying application code across multiple environments, regions, and versions requires you to update multiple configuration files with the location of every resource. Cloud Map maintains an up-to-date registry of resource names and locations. You update the location of the resource based on the environment, region, or application version to which you are deploying, and your application will automatically discover the correct resource.
+Deploying application code across multiple environments, regions, and versions requires you to update multiple configuration files with 
+the location of every resource. Cloud Map maintains an up-to-date registry of resource names and locations. You update the location of the resource
+based on the environment, region, or application version to which you are deploying, and your application will automatically discover the correct resource.
 
 => AWS Cloud Map integrates with Amazon Route 53 to provide Route 53 health checks and resource discovery through DNS queries.
 
 
               API/GW:
               =======
-=> Amazon API Gateway helps developers to create and manage APIs to back-end systems running on Amazon EC2, AWS Lambda, or any publicly addressable web service. With Amazon API Gateway, you can generate custom client SDKs for your APIs, to connect your back-end systems to mobile, web, and server applications or services.
+=> Amazon API Gateway helps developers to create and manage APIs to back-end systems running on Amazon EC2, AWS Lambda, or any publicly addressable web service.
+With Amazon API Gateway, you can generate custom client SDKs for your APIs, to connect your back-end systems to mobile, web, and server applications or services.
 
                   ALB:
                Lambda function: 
@@ -56,11 +66,14 @@ With Lambda, you can run code for virtually any type of application or backend s
 
 
 
- Amazon ECS: makes it easy to deploy, manage, and scale Docker containers running applications, services, and batch processes. Amazon ECS places containers across your cluster based on your resource needs and is integrated with familiar features like Elastic Load Balancing, EC2 security groups, EBS volumes and IAM roles.
+ Amazon ECS: makes it easy to deploy, manage, and scale Docker containers running applications, services, and batch processes. Amazon ECS places containers
+ across your cluster based on your resource needs and is integrated with familiar features like Elastic Load Balancing, EC2 security groups, 
+ EBS volumes and IAM roles.
 
 We're working on exciting enterprise technologies, have a great group to learn from and tons of ownership of projects as we expand.
 
 - Amazing Work/Life Balance (flexible hours and rotating on-call schedule)
 - 39B organization, which has only grown! Public + 500% increase in stocks in 5 years
 - Enterprise organization with modern tools
-- Top-Tier Benefits; CoStar pays for 95% of Medical/Dental/Vision for the WHOLE family, 4% matching for 401K, PTO package, Life/Disability Insurance 1.5X salary, etc.
+- Top-Tier Benefits; CoStar pays for 95% of Medical/Dental/Vision for the WHOLE family, 4% matching for 401K, PTO package, Life/Disability 
+Insurance 1.5X salary, etc.
